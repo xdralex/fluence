@@ -1,0 +1,12 @@
+(function() {var implementors = {};
+implementors["fluence_client"] = [{"text":"impl Clone for Transport","synthetic":false,"types":[]},{"text":"impl Clone for ClientCommand","synthetic":false,"types":[]},{"text":"impl Clone for ClientEvent","synthetic":false,"types":[]}];
+implementors["particle_actors"] = [{"text":"impl Clone for VmPoolConfig","synthetic":false,"types":[]}];
+implementors["particle_closures"] = [{"text":"impl Clone for BehaviourMailboxApi","synthetic":false,"types":[]},{"text":"impl Clone for HostClosures","synthetic":false,"types":[]},{"text":"impl Clone for BuiltinCommand","synthetic":false,"types":[]}];
+implementors["particle_dht"] = [{"text":"impl Clone for ResolveError","synthetic":false,"types":[]},{"text":"impl Clone for ResolveErrorKind","synthetic":false,"types":[]},{"text":"impl Clone for NeighborhoodError","synthetic":false,"types":[]}];
+implementors["particle_modules"] = [{"text":"impl Clone for Blueprint","synthetic":false,"types":[]}];
+implementors["particle_protocol"] = [{"text":"impl Clone for ProtocolMessage","synthetic":false,"types":[]},{"text":"impl Clone for ProtocolConfig","synthetic":false,"types":[]},{"text":"impl Clone for Particle","synthetic":false,"types":[]}];
+implementors["particle_services"] = [{"text":"impl Clone for ServicesConfig","synthetic":false,"types":[]}];
+implementors["server_config"] = [{"text":"impl Clone for AppServicesConfig","synthetic":false,"types":[]},{"text":"impl Clone for BootstrapConfig","synthetic":false,"types":[]},{"text":"impl Clone for ServerConfig","synthetic":false,"types":[]},{"text":"impl Clone for KademliaConfig","synthetic":false,"types":[]}];
+implementors["test_utils"] = [{"text":"impl Clone for CreatedSwarm","synthetic":false,"types":[]},{"text":"impl Clone for Trust","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Clone for SwarmConfig&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl Clone for CreatedService","synthetic":false,"types":[]}];
+implementors["trust_graph"] = [{"text":"impl Clone for Certificate","synthetic":false,"types":[]},{"text":"impl Clone for KeyPair","synthetic":false,"types":[]},{"text":"impl Clone for PublicKeyHashable","synthetic":false,"types":[]},{"text":"impl Clone for Trust","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

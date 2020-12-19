@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Vec1","`Vec1<T>` represents a non-empty `Vec<T>`. It derefs to `Vec<T>` directly."]]});

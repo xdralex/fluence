@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["PlumberEvent",""]],"mod":[["vec1",""]],"struct":[["HostImportDescriptor",""],["Plumber",""],["VmPoolConfig",""]]});
